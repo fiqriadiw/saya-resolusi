@@ -3,6 +3,7 @@ Rencana konten saya
   *ES6
   *Framework js
   ^ Vue
+  ^ React
 - PHP Framework
   * Laravel
 - Fundamental Sruktur data
