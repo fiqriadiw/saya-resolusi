@@ -1,0 +1,7 @@
+Rencana konten saya
+- Javascript 
+  *ES6
+  *Framework js
+- PHP Framework
+- Vlog
+- Interview
