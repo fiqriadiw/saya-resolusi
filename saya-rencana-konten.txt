@@ -2,7 +2,9 @@ Rencana konten saya
 - Javascript 
   *ES6
   *Framework js
+  ^ Angular
+  ^ React
 - PHP Framework
-- Fundamental Sruktur data
+  * Laravel
 - Vlog
 - Interview
