@@ -3,5 +3,6 @@ Rencana konten saya
   *ES6
   *Framework js
 - PHP Framework
+- Fundamental Sruktur data
 - Vlog
 - Interview
