@@ -2,7 +2,10 @@ Rencana konten saya
 - Javascript 
   *ES6
   *Framework js
+  ^ Vue
 - PHP Framework
+  * Laravel
 - Fundamental Sruktur data
 - Vlog
 - Interview
+- Phyton
